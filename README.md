@@ -1,4 +1,4 @@
 # stepik---auto-tests-course
 homework
 
-test test example string
+Это репозиторий для хранения домашних работ
